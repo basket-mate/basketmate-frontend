@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_navigation_notice"
+        android:title="공지사항"
+        android:icon="@drawable/notice_image"/>
+    <item
+        android:id="@+id/bottom_navigation_home"
+        android:title="홈"
+        android:icon="@drawable/home_image"/>
+    <item
+        android:id="@+id/bottom_navigation_user"
+        android:title="사용자"
+        android:icon="@drawable/user_image"/>
+</menu>

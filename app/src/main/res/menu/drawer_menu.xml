@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id = "@+id/order_details"
+        android:icon="@drawable/orderdetails_icon"
+        android:title = "주문내역"
+        />
+    <item android:id = "@+id/delivery_address_management"
+        android:icon="@drawable/delivery_icon"
+        android:title = "배송지 관리"
+        />
+    <item android:id = "@+id/recipe_management"
+        android:icon="@drawable/recipe_icon"
+        android:title = "레시피 관리"
+        />
+
+</menu>
